@@ -1,5 +1,0 @@
-% Absolute error = Approx. value - Exact value
-
-for i = 1:10
-    absError(i) = sqrt(2*pi*i)*(i/exp(1))^i - factorial(i;
-end
